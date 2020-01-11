@@ -1,2 +1,1 @@
-# git_test
-Git Test
+This is my first GIT upload
